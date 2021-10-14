@@ -1,0 +1,31 @@
+<div align="center"><img src="https://lh3.googleusercontent.com/fife/AAWUweUgvfiPDj0ldWiAzDVFEkTJqAzm70Q1T5kKFJHQmDJlXpHQNjw_uwe_LHYuKZpjRwbsvZXJFcVctker_6JZXJe2Q5Va-aWVbJqKJev744BtpZyxEzsGbkhR9iwzYG4wVRnjINk1JE-SDfQCAVzcRrozMbzxzRNsAvIxSO4hfng1xyDdFAxV9wdvPz-sGY6y1rliPmac2kjHWFAm0vRxX2tWYfOWpoWcZSlWMLUtcE2UrvNhxhGeO7uFAKCaIYeG45F5td8QlrjPf7zNHA-9EZNRPGdfst-NrMSOYL4W5Ag7-4XonHZ_d7Uy4fGesla2OxNQo4zjzM-bk-4-9aMm0sBxIyOtrWYff4lmETxBoS-PS7FMAReReInZFyRcHibkQd5R9ihWIt_RjhurlqvOBwQfRkCX1M76IL0g-7wbNP73RpaLnuo_VYfiz523GIieVhO5G5c2LhwScJGAmU2VQ1FGThCw58RvQ08LNKpeCZMIKLq_JU-nXJlcJtGfyhsD8ZE-B__MYN1p0C7NeAVaVbeIS0sdWBk2BiakvTtMZ2ithHC85OKpCI2BvuHKRkM8jWKWfxl19XGwntdYLGqmMSJazbKTGGzw7T7Q9P8N5VD05_OpmgVofq5qWc3oPcGmmQHBs5K_HRcICHrT4DdhOkeT0Ef8OOpp1TGdpyEE4-UVXI9R3CQDhwHmjMCAvXL6L7s8uU6Z9gGbslN7fAQuzM936mORqB71rA=w805-h568-ft" height="320" width="720"></div>
+
+
+# Presentación
+
+Este proyecto cuenta con un **framework** de automatización y un proyecto adjunto para automatizar varias funcionalidades, tales como:
+
+- La automatización de Front
+- La automatización de Base de Datos
+- La automatización de API
+
+<br></br>
+## Automatización Integral de Front - Base de Datos - API (_Get_)
+
+Mediante **Selenium**, junto con **Python**, este framework permite la automatización de aplicaciones web, orientado al **Testing**.
+
+<div align="center"><img src="https://lh3.googleusercontent.com/fife/AAWUweUnEhhlpmx19QmhCkrCVAaVz7_emVxOsyTC_-M2NawfMWjtP1EUVUAS68AnhTQ-dZZ1FN-32rn4DPwvw0F7CRLsxNPMfplKuoCeKHVlnYWmdaestrW69KxbzJjO9LNIC1rSD0ROdogVIzLPZTCqx0SAkKFGSmRmTDKyIVn0mKWrsjreKMGIhYnfOBGX7ItbM9NT2uSemDJznDMQMp77FcULNOsRpsL0FSujSRw6Ialatt26igHKiwQaEwp8kL0Mzc5PENHNZmzlwpBELZQvnISpxXafUINmX4to13QWQtQfWmLQOsIw3N9Oru_Sbxt2T6z5_F-QN3NceiBxl_qxWHTUIv8GBDoZnaXM0B--vLX0l2INGAeNxSyZQj2bK3Snk-6KT-JM3HyQNIgd0ztizJqc9cRFGEzs5H9jZHBp13h9Yu8R7gvjSSjWSMf5zLEs6ZyeETZlrmF9i-27oEHRIJM4fN9h_dRKRdZMXFDfhRMUL9q2rYpY64h9b-LYfE3aAtT5qW1sU5oy1fpJj4SKCmilr0NIDH7KULRPQc9koVT0Frpci0cZQrfIR_h0u8UX13Xn39L6Med3Za-ZWzd8o_0HyceciyhPsbxVIWxytFH3k48g6VpsXpRb2IwepXFtVK7mOpEWSz1H0PApfTVT6UF94bAE9j3sokwmEVPagPH63o1n--YEEiRFKn_K09aTxdDGK-fiKUcZhUeviMr2hPrfq2vihFcpSA=w805-h568-ft" height="388" width="692"></div>
+
+<br></br>
+## Automatización de Base de Datos
+
+Esta muestra de la consola ejemplifica el funcionamiento del framework ejecutado en el IDE **Pycharm** validando la conexión con la _Base de Datos_ y la _API_.
+<div align="center"><img src="https://lh3.googleusercontent.com/fife/AAWUweUNVVDlwPbMQjQnZdd2LsbaVle4KdfIPzTufuTvWALfTlJ_jenGKHJpKBVvdlIERZ4Kae8Aw_9rYuecLSPDPyRSAYfZlbnAc2emD9aTIfcfjZYYPvgIiLrNIOXNYT8gh9W1WngtvAmR0VdT5taYsi4sTUstdYuF7qHrMxL7ZQc0bAcRg0_P-G5_W3HeMHW1vWkctNiv_ohJLIWiFMk_lQjDNdVSlAEx8C4tZMRJH6fVFCA6AY3SEdqCEWxJ9sVWwy34PauW_QETfUkNHAjjOhK7-M0zsw0y2QV458B1dnRS2skOqsQZ6mQkUAVwKjoOK1JeRy776Da72AO95ibXvFAB85VL98nJ_EiFwRHKsGcs3yDrrJfZ6rtUhmDxofB39d8WnYJ-IJSUo5HzvXl9xXCEkZ4KC4lV-VrYNykVt3_NvH4QVA5u9DAJllo9vW02esqPghCZ3EsrbhPLo4RoTteT4YHDBG-qaQWMwz8fnDFI4W1GvgqlYO8_A7vjCYC2A4go4m47DPxbAgA-OA5nxxO-ZPdgCKtHe9g2EEmr499iYcuCOht8KtOctxbJIf_7PHngA1KweW2uLWIycaFW9npDBgdA7sPH036fX7NE9uDB8dEBaj6sdp6_deF9Ng52SC_Nbirug8M2HomtQgLlEVN8sig5RdEou_Hw_O28OyPZlppU3fzXu15P0zAcBFT8PeKJDXfzp9s3TpQsCedR5KhDEtd8euQHRA=w805-h568-ft" height="388" width="692"></div>
+<br></br>
+
+## Automatización de **API**
+
+Por último la conexión con una **API** del tipo _**POST**_, como se puede ver a continuación.
+
+Todo el proyecto en sí tiene como objetivo presentar funcionalidades desarrolladas en un entorno local con todos los parámetros para ser ejecutadas en un entorno laboral completo de escenarios reales.
+<div align="center"><img src="https://lh3.googleusercontent.com/fife/AAWUweXg4DjVCLPxJTZOfZx4zuOmANLYmPnD5O0Wveyf2HVKIOU4m3kCJLXQnLlE14epl75KFhJQCqDMvR5F-Lum2zxI1YA54oGgLBdW6uRqacHWbsbAGmkXckGnAKHGCA6VgMR3DtMwmFYc1x5oIjtsxF513hrQlLqBYn9owNsDM-Hd2RqL1UUVdPcarY2ENGTG2q6sLbOt7KeDYym-KKC1bJL9xnx8Y9uW5idIXlVwqAaeb6FTgfzUQJSHq_I2916_dXX5p4opNxTzfdgLpF2X9qX-9BlWC63B3HBpn8g-Ks4JuwBj66rSVzIQfSDBsucFu7EoY5aygxLiowLq97TVk3iUaPhipuQMj8Oj-5Z3y9oW1PeMs3MsZzEJHgbYRdlq6cyb4Fp3E_t-V1ZEQYFRhTHKjR85Wfdk_LqIUyOn3cEjNwkSJiNAop4ZPYI_0aLvVYfxqkEiEzrFM6U-sJ2hG8yHPsWr4725gkHThVxehhPl4I5azOfQeFzWssawpbNUiEzZJ-JJZb7N1fREu6QWgqZyHO7QxqX0JfnMAQ79vNSLYff9PIkthsofLYILDHYWHB-OdBATqfgzOo6Co7BbhP3SLoyLLqbkW1KRLhinJ2B1gxk9qIV81uzSOgLZGsJ0eQZHH5q5iz8oh99BdAS2M9a4jNObIc8xjVxx0kAe--30Bc7xeBbvncBVug2LYEAIlHEve2BZ4G6pxIPWUCEWrSpO-01-KcEpCg=w805-h568-ft" height="388" width="692"></div>

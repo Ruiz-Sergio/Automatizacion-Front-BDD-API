@@ -1,0 +1,26 @@
+{
+  "BTN_Ver_Todos": {
+      "GetFieldBy": "Xpath",
+      "ValueToFind": "//input[@class='btn see-all']"
+  },
+  "Tabla_Productos": {
+      "GetFieldBy": "Xpath",
+      "ValueToFind": "//input[@class='btn see-all']"
+  },
+  "<tr>_Producto": {
+      "GetFieldBy": "Xpath",
+      "ValueToFind": "//tr[@data-idproduct='2']//td[2]"
+  },
+  "TXT_Nombre_Producto": {
+      "GetFieldBy": "Xpath",
+      "ValueToFind": "//tr[@data-idproduct='IndiceX']//td[2]"
+  },
+  "TXT_Cuadro": {
+      "GetFieldBy": "Xpath",
+      "ValueToFind": "//input[@type='number']"
+  },
+  "BTN_Consulta": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@class='btn consult']"
+  }
+}
